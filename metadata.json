@@ -1,0 +1,5 @@
+{
+  "name": "Chess Master AI",
+  "description": "A high-performance, visually stunning Chess application featuring a Grandmaster AI coach powered by Gemini 3 Flash. Includes move validation, history tracking, and real-time position analysis in Arabic.",
+  "requestFramePermissions": []
+}
